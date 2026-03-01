@@ -88,3 +88,8 @@ body {
 .game-info {
   margin-left: 20px;
 }
+
+/* Added Improvement #4 */
+.winning-square {
+  background-color: green;
+}
